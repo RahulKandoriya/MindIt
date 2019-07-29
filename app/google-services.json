@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "402208250792",
+    "firebase_url": "https://mindit-4b33d.firebaseio.com",
+    "project_id": "mindit-4b33d",
+    "storage_bucket": "mindit-4b33d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402208250792:android:31f2f60c23be2c75",
+        "android_client_info": {
+          "package_name": "com.abotstudio.apps.rememberanything.mindit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402208250792-fan29o141mee2m7f0h7tato171b08rub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abotstudio.apps.rememberanything.mindit",
+            "certificate_hash": "8aed14574426a9310bfa50aa6cf78ac133e0d031"
+          }
+        },
+        {
+          "client_id": "402208250792-skjvfk9n0pv1974jsess7rq52ijt8drl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABZ_FPu8w1uX_qP7qqHBDTjJVocVaLSXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402208250792-skjvfk9n0pv1974jsess7rq52ijt8drl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

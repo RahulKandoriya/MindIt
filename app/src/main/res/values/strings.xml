@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Mind it</string>
+    <string name="instruct_text">Minding this thing for every</string>
+    <string name="delete">Delete</string>
+    <string name="title_hint">Enter Title</string>
+    <string name="subtext_hint">Enter Details(max 9999 char)</string>
+    <string name="hour_text">hour(s)</string>
+    <string name="cancel_text">Cancel</string>
+    <string name="ok_text">ok</string>
+    <string name="add_text">Add Thing to Mind! (multi-lang)</string>
+    <string name="update_text">Update It!</string>
+    <string name="started_text">Started! Edit disabled till you stop it.</string>
+    <string name="stopped_text">Stopped!</string>
+    <string name="add">Add Post</string>
+
+</resources>
